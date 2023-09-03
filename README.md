@@ -1,7 +1,7 @@
 # Hello, Welcome to Tanmay's space!
 
 ## Introduction
-Hi, I am Tanmay Das. I am currently working as a Software Engineer in Test with the Cloud Platform Integrations team at [The MathWorks](https://in.mathworks.com/). I am based out in Hyderabad, Telangana, India. 
+Hi, I am Tanmay Das. I am currently studying Masters of Science in Electrical and Computer Engineering at the Georgia Institute of Technology, Atlanta with the technical interest area of Computer Systems and Software and the expected graduation date of August 2025. I am living in Atlanta, GA, US. 
 
 ## Things I code with
 <p>
@@ -25,9 +25,9 @@ Hi, I am Tanmay Das. I am currently working as a Software Engineer in Test with 
 </p>
 
 ## Professional Experience
-I have been working at MathWorks since July 2021. My contributions have been majorly on two fronts
+I worked at [MathWorks](https://in.mathworks.com/) as a Software Engineer in Test  with the Cloud Platform Integrations team from July 2021 till July 2023. My contributions had been majorly on two fronts
 ### MathWorks Reference Architectures
-MathWorks Reference Architectures are Infrastructure as a Code(IaC) Templates that allow users to deploy resources in Cloud platforms to be able to use MathWorks products in the cloud. I have actively contributed to ensure the quality of [MathWorks Reference Architectures](https://github.com/mathworks-ref-arch). I have closely worked on Cloud platforms like AWS and Azure and thier SDK packages in Python to write integration tests for the reference architectures. Here, I used GitLab SCM and Perforce Helix for Version Control.
+MathWorks Reference Architectures are Infrastructure as a Code(IaC) Templates that allow users to deploy resources in Cloud platforms to be able to use MathWorks products in the cloud. I had actively contributed to ensure the quality of [MathWorks Reference Architectures](https://github.com/mathworks-ref-arch). I had closely worked on Cloud platforms like AWS and Azure and their SDK packages in Python to write integration tests for the reference architectures. Here, I used GitLab SCM and Perforce Helix for Version Control.
 > Please note that the contribution in the GitHub repositories may not reflective of my efforts because a significant part of the codebase is maintained in MathWorks Internal Server.
 
 <p>
@@ -46,7 +46,7 @@ MathWorks Reference Architectures are Infrastructure as a Code(IaC) Templates th
 #### Python Packages
 [unittest](https://docs.python.org/3/library/unittest.html) | [boto3](https://pypi.org/project/boto3/) | [azure-sdk-for-python](https://learn.microsoft.com/en-us/azure/developer/python/sdk/azure-sdk-overview) | [testinfra](https://pypi.org/project/testinfra/)
 ### MATLAB Integration with Jupyter
-MATLAB Integration with Jupyter allows the users to run MATLAB code in a Jupyter environment or launch MATLAB in a web browser. I have contributions in [matlab-proxy](https://github.com/mathworks/matlab-proxy) and [jupyter-matlab-proxy](https://github.com/mathworks/jupyter-matlab-proxy) repositories to enhance the test infrastructure. I also implemented a UI feature to choose MATLAB version while launching MATLAB in a web-browser. I used Git for Version control and GitHub Actions as the CI/CD system.
+MATLAB Integration with Jupyter allows the users to run MATLAB code in a Jupyter environment or launch MATLAB in a web browser. I had contributions in [matlab-proxy](https://github.com/mathworks/matlab-proxy) and [jupyter-matlab-proxy](https://github.com/mathworks/jupyter-matlab-proxy) repositories to enhance the test infrastructure. I also implemented a UI feature to choose MATLAB version while launching MATLAB in a web-browser. I used Git for Version control and GitHub Actions as the CI/CD system.
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
@@ -81,8 +81,21 @@ Moreover, I also contributed to some of the paper presentations and literature r
 
 
 ## Education
+I am studying Masters of Science in Electrical and Computer Engineering at the Georgia Institute of Technology, Atlanta (US) with the technical interest area of Computer Systems and Software and the expected graduation date of August 2025.
 I did my Bachelors in Engineering at the [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/) with major in Instrumentation Engineering and a minor in Computer Science and Engineering. I graduated with a cummulative GPA of 9.03. Moreover, I did my high schooling at Delhi Public School, Dhanbad with Intermediate in Science and passed with a 93.4%.
 ### Coursework
+#### Graduate Courses
+**Ongoing**
+
+- Introduction to Computer Security
+- Advanced Malware Analysis
+- Critical Infrastructure Security and Resilience
+- Computer Communication Networks
+
+**Completed**
+
+None
+#### Underguate Courses
 **Programming**: Data Sructure and Algorithms, Computer Networks, Computer Architecture & Operating Systems, High Performance Parallel Computing </br>
 **Data Science**: Data Analytics, Machine Learning, Statistics, NLP, Social Computing, Artificial Intelligence </br>
 **Mathematics**: Probability and Stochastic Processes, Estimation of Signals and Systems, Transform Calculus </br>
